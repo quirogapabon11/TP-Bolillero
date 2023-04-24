@@ -1,0 +1,16 @@
+```mermaid
+    classDiagram
+    class Bolillero{
+    +Bolillas List ~int~ int 
+    +Afuera List ~int~ int
+    +Jugada List ~int~ 
+    +Jugar (List ~int~) bool
+    +SacarBolilla () int
+    +MeterBolilla () int
+    +JugarNVeces (List ~int~, int) int
+    }
+    class IAleatorio{
+    }
+    class Aleatorio{
+    }
+```
