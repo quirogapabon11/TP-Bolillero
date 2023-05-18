@@ -1,0 +1,12 @@
+/home/et12alumno/Documentos/Esthefany Quiroga/tp-Bolillero/TP-Bolillero/Bolillero.Core/bin/Debug/net7.0/Bolillero.Core.deps.json
+/home/et12alumno/Documentos/Esthefany Quiroga/tp-Bolillero/TP-Bolillero/Bolillero.Core/bin/Debug/net7.0/Bolillero.Core.dll
+/home/et12alumno/Documentos/Esthefany Quiroga/tp-Bolillero/TP-Bolillero/Bolillero.Core/bin/Debug/net7.0/Bolillero.Core.pdb
+/home/et12alumno/Documentos/Esthefany Quiroga/tp-Bolillero/TP-Bolillero/Bolillero.Core/obj/Debug/net7.0/Bolillero.Core.csproj.AssemblyReference.cache
+/home/et12alumno/Documentos/Esthefany Quiroga/tp-Bolillero/TP-Bolillero/Bolillero.Core/obj/Debug/net7.0/Bolillero.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/et12alumno/Documentos/Esthefany Quiroga/tp-Bolillero/TP-Bolillero/Bolillero.Core/obj/Debug/net7.0/Bolillero.Core.AssemblyInfoInputs.cache
+/home/et12alumno/Documentos/Esthefany Quiroga/tp-Bolillero/TP-Bolillero/Bolillero.Core/obj/Debug/net7.0/Bolillero.Core.AssemblyInfo.cs
+/home/et12alumno/Documentos/Esthefany Quiroga/tp-Bolillero/TP-Bolillero/Bolillero.Core/obj/Debug/net7.0/Bolillero.Core.csproj.CoreCompileInputs.cache
+/home/et12alumno/Documentos/Esthefany Quiroga/tp-Bolillero/TP-Bolillero/Bolillero.Core/obj/Debug/net7.0/Bolillero.Core.dll
+/home/et12alumno/Documentos/Esthefany Quiroga/tp-Bolillero/TP-Bolillero/Bolillero.Core/obj/Debug/net7.0/refint/Bolillero.Core.dll
+/home/et12alumno/Documentos/Esthefany Quiroga/tp-Bolillero/TP-Bolillero/Bolillero.Core/obj/Debug/net7.0/Bolillero.Core.pdb
+/home/et12alumno/Documentos/Esthefany Quiroga/tp-Bolillero/TP-Bolillero/Bolillero.Core/obj/Debug/net7.0/ref/Bolillero.Core.dll
