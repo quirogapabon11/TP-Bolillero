@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bolillero.Core", "Bolillero.Core\Bolillero.Core.csproj", "{A1DDD6A9-D272-4C62-9BF3-A766938D092D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BolilleroPrueba", "BolilleroPrueba.cs\BolilleroPrueba.csproj", "{08DBDBD1-5A6B-4BC8-A558-F9BEE84D9E38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{A1DDD6A9-D272-4C62-9BF3-A766938D092D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1DDD6A9-D272-4C62-9BF3-A766938D092D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1DDD6A9-D272-4C62-9BF3-A766938D092D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08DBDBD1-5A6B-4BC8-A558-F9BEE84D9E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DBDBD1-5A6B-4BC8-A558-F9BEE84D9E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DBDBD1-5A6B-4BC8-A558-F9BEE84D9E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DBDBD1-5A6B-4BC8-A558-F9BEE84D9E38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,12 +1,10 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+namespace Bolillero.Core;
 
-namespace Bolillero.Core
+public class Aleatorio : IAleatorio
 {
-    public class Aleatorio
-    {
-        
-    }
+    private Random _random { get; set; }
+    public Aleatorio()
+        => _random = new Random(DateTime.Now.Millisecond);
+    public int SacarIndice(List<int> Bolillas)
+    => _random.Next(0, Bolillas.Count);
 }
